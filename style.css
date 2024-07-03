@@ -109,12 +109,18 @@ nav a{
     transition: 0.3s linear;
     
 }
-.namepic img, .passionpic img, .systempic img
+.namepic img
 {
     height: 250px;
     border-radius: 10px;
     box-shadow: 4px 4px 4px;
     
+}
+.passionpic img, .systempic img
+{
+    height: 170px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px;
 }
    
 .name h2, .passionSection h2, .systemSection h2{
